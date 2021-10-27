@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/scrimba-meme-generator/static/css/main.00cf6fbe.chunk.css",
+    "main.js": "/scrimba-meme-generator/static/js/main.d6e10526.chunk.js",
+    "main.js.map": "/scrimba-meme-generator/static/js/main.d6e10526.chunk.js.map",
+    "runtime-main.js": "/scrimba-meme-generator/static/js/runtime-main.298222be.js",
+    "runtime-main.js.map": "/scrimba-meme-generator/static/js/runtime-main.298222be.js.map",
+    "static/js/2.2899190c.chunk.js": "/scrimba-meme-generator/static/js/2.2899190c.chunk.js",
+    "static/js/2.2899190c.chunk.js.map": "/scrimba-meme-generator/static/js/2.2899190c.chunk.js.map",
+    "index.html": "/scrimba-meme-generator/index.html",
+    "static/css/main.00cf6fbe.chunk.css.map": "/scrimba-meme-generator/static/css/main.00cf6fbe.chunk.css.map",
+    "static/js/2.2899190c.chunk.js.LICENSE.txt": "/scrimba-meme-generator/static/js/2.2899190c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.298222be.js",
+    "static/js/2.2899190c.chunk.js",
+    "static/css/main.00cf6fbe.chunk.css",
+    "static/js/main.d6e10526.chunk.js"
+  ]
+}
